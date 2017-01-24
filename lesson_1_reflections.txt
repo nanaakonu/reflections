@@ -1,0 +1,10 @@
+Reflection on finding the difference in two codes using FC in cmd.
+
+After downloading the two game files, game_new.js and game_old.js. I opened command prompt.
+A colleague helped me set the directory to the local disk. I then changed the directory to Downloads folder which i thought was the directory for the two files i downloaded. When i run the FC command, i got an error. I later checked to find out the files were in the Documents folder not the Downloads folder. I edited the FC command and run it again, this time it worked. Using the FC to compare codes is a lot easier and it will really help in bug finding. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having easy access to the entire history of the file would have provided context of which changed was made and why they were made. This would make adding
+new features or deleting features more easier. I will having access to the entire history of a file will make me more efficient programmer.
+
+Reflection on Making Commits as compared to auto save 
