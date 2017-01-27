@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_a436cde8e7a586fdc54fa2d1159de6a78a559469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_4ab2ce7917bb3659c90b7fe0fa5510116a6dba10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_8942ef19767b6f0d4f53f97d323d1d8afefc17ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_1a7908fd5e609be36f85c97b2599880b2678f2ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e7b4dfb9a70b0bfb7378de709f227a238ed7bad5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aa15888bc7777579a259582965b0057d6e5ba7d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_f4c1eb53f6d16826d72de9ecf64f2afddcd54616.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_585465c595f868cbe2d95e4fa7ee1b107336360a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c69b3fad5a2fd62c7408faae4750f62c291bf911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_9580152d941f9716eeaf28d1c0c9423241c2af8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e2bf04307ffcd774918a5febde3f16e024dce942.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_13bcb497f56cb5f177dc645d19d6822590915827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3387988d51cd917ee9b100e61487815520cc5160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_7119cfe2bc135b36fb1739c0faee549cdda41c90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\sboison\AndroidStudioProjects\TestAndroidPrinting\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_cce32b75d148db7aacebdb7b8673c007c7a4364f.jar" />
+    </item>
+
+</items>
